@@ -1,4 +1,3 @@
-# Dissertation-Documentation
 
 ### How to run the notebooks:
 Please download all the imports and dependancies present in both the Elliptic Dataset and AML SIM dataset notebooks before running them. The datasets associated with each notebook can be found at the following link:  
