@@ -15,5 +15,7 @@ Through the observations made in the above tables, we can conclude that supervis
 The difference in performance can also be due to the structure of both datsets, as normal financial transactions are different from Bitcoin Blockchain transactions. Models need to be developed to suit their dataset values accordingly, but we can conclude through the experiments done on this project, that semi-supervised models managed to bring the most information out of each of the datasets, and helped classify the samples best.
 
 ### How to run the notebooks:
-Please download all the imports and dependancies present in both the Elliptic Dataset and AML SIM dataset notebooks before running them. The datasets associated with each notebook can be found at the following link:  
-https://heriotwatt-my.sharepoint.com/:f:/r/personal/kkk6_hw_ac_uk/Documents/Dissertation%20Datasets?csf=1&web=1&e=5S9RD3
+Please download all the imports and dependancies present in both the Elliptic Dataset and AML SIM dataset notebooks before running them. The datasets associated with each notebook can be found at the following Github Pages:
+- [Elliptic Bitcoin](https://www.kaggle.com/ellipticco/elliptic-data-set)
+- [AMLSIM](https://github.com/IBM/AMLSim/)
+
